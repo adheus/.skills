@@ -2,8 +2,7 @@
 name: roku
 description: Roku BrightScript and SceneGraph development reference. Use when writing, debugging, or reviewing BrightScript/SceneGraph code for Roku apps. Covers language syntax, SceneGraph nodes, Video playback, SGDEX, and community tools.
 user-invocable: true
-argument-hint: [topic or question]
-paths: "**/*.brs,**/*.xml,**/manifest"
+argument-hint: "[topic or question]"
 ---
 
 # Roku / BrightScript Development Skill
